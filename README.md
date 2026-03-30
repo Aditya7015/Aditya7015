@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+### 👋 Hi, I'm Aditya Tiwari<br><br>💻 Computer Science Undergraduate (B.Tech, 2023–2027)<br>📍 Greater Noida, India<br><br>---<br><br>### 🚀 About Me<br><br>I’m a backend-focused developer with strong foundations in **Data Structures, Algorithms, and system design**.<br>I enjoy building **scalable and maintainable applications** using the MERN stack and solving real-world problems through efficient code.<br><br>I have hands-on experience developing production-ready applications with **secure authentication, REST APIs, and optimized database systems**.<br><br>---<br><br>### 💼 Experience<br><br>💻 MERN Stack Development Intern @ Synomtech Solutions<br><br>* Built and maintained applications used by **500+ users**<br>* Improved API performance by **25%** through optimization<br>* Implemented secure authentication using JWT<br>* Debugged production systems and enhanced stability<br><br>---<br><br>### 🛠️ Tech Stack<br><br>* **Languages:** JavaScript (ES6+), C++<br>* **Frontend:** HTML, CSS, React.js<br>* **Backend:** Node.js, Express.js<br>* **Database:** MongoDB, MySQL (Basics)<br>* **Core CS:** DSA, DBMS, OOP<br>* **Tools:** Git, GitHub, Postman<br><br>---<br><br>### 🔥 Projects<br><br>* 🤖 **TalentIQ AI** — AI-powered ATS Resume Platform<br>* 🛒 **AdiShop** — Full-stack E-commerce Application<br>* 🚀 Currently Building: **Code Execution Engine (LeetCode-like platform)**<br><br>---<br><br>### 📈 Achievements<br><br>* Solved **400+ DSA problems** on coding platforms<br>* Strong understanding of **API design & system architecture**<br><br>---<br><br>### 🎯 Goals<br><br>* Crack top product-based companies<br>* Build scalable backend systems<br>* Create impactful SaaS products<br><br>---<br><br>### 📫 Connect with Me<br><br>* 📧 Email: [adityatiwari3105@gmail.com](mailto:adityatiwari3105@gmail.com)<br>* 💻 GitHub: https://github.com/Aditya7015<br>* 🔗 LinkedIn: https://linkedin.com/in/adityatiwari77/<br><br>---<br><br>⭐ *Focused on growth, consistency, and building real-world systems.*<br>
 
-<!--
-**Aditya7015/Aditya7015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_80947) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya7015) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityatiwari77077@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aditya7015&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aditya7015&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya7015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aditya7015&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
